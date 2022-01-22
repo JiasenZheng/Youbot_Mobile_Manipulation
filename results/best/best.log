@@ -1,0 +1,6 @@
+INFO:root:Generating reference trajectory
+INFO:root:Generating configurations and Xerrors
+INFO:root:Storing configurations as csv file
+INFO:root:Storing Xerror as csv file
+INFO:root:Plotting the Xeror
+INFO:root:Done!
